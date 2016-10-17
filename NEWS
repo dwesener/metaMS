@@ -1,4 +1,4 @@
-Version 1.9.0
+Version 1.9.1
   * removed a bug in construct.msp which took a data.frame as the
   second argument where the documentation was claiming it could handle
   a nested list. Since the latter option is more general, the code was
